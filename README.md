@@ -5,19 +5,19 @@ A food management command line application demonstrating the use of enums in jav
 
 # ENUMS
 <hr>
-Enum specifies list of constant value assigned to a type.
+Enum specifies list of constant value assigned to a type.<br>
 ### Enums used in this applications are:<br>
-  -Burger
-  -Sauces(private nest enum)
-  -SidesEat
-  -Beverages
-  -CupSize
+  -Burger<br>
+  -Sauces(private nest enum)<br>
+  -SidesEat<br>
+  -Beverages<br>
+  -CupSize<br>
   
 # Access Modifiers in Java:<br>
-  -Public
-  -protected
-  -Default
-  -Private
+  -Public<br>
+  -protected<br>
+  -Default<br>
+  -Private<br>
   
   
   
