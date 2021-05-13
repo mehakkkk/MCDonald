@@ -5,8 +5,8 @@ A food management command line application demonstrating the use of enums in jav
 
 # ENUMS
 Enum specifies list of constant value assigned to a type.<br>
-<hr>
-# ENUMS<br>
+
+## Enums used in this application:<br>
   -Burger<br>
   -Sauces(private nest enum)<br>
   -SidesEat<br>
